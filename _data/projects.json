@@ -1,37 +1,37 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
+        "title": "프로그래밍",
         "description": "My Description 01",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
+        "image": "assets/img/projects/다운로드.jpg",
+        "title": "수학",
         "description": "My Description 02",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
+        "image": "assets/img/projects/다운로드 (2).jpg",
+        "title": "통계",
         "description": "My Description 03",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
+        "image": "assets/img/projects/다운로드 (3).jpg",
+        "title": "주식투자",
         "description": "My Description 04",
         "link": "#"
     },
     {
-        "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
+        "image": "assets/img/projects/다운로드 (1).jpg",
+        "title": "역사",
         "description": "My Description 05",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
+        "title": "나의 생각",
         "description": "My Description 06",
         "link": "#"
     }
