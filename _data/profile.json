@@ -8,9 +8,9 @@
         {
             "label": "RESUME",
             "link":{
-                "이력서": "/assets/resume/정충원 이력서.png",
-                "자기소개서":"/assets/resume/정충원 자기소개서.docx.pdf",
-                "portfolio":"/assets/resume/portfolio 정충원.pptx"
+                "이력서": "/assets/resume/정충원-이력서.png",
+                "자기소개서":"/assets/resume/정충원-자기소개서.docx.pdf",
+                "portfolio":"/assets/resume/portfolio-정충원.pptx"
             }
 
         
