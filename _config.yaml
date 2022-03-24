@@ -1,6 +1,4 @@
-# https://jekyllrb.com/docs/configuration/options/
 
-# Server
 destination: _site
 keep_files:
   - assets/app

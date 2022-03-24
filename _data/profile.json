@@ -7,7 +7,9 @@
     "resumes": [
         {
             "label": "RESUME",
-            "link": "assets/resume/my-resume.txt"
+            "link": "/assets/resume/정충원 이력서.png",
+            "link": "/assets/resume/정충원 자기소개서.docx.pdf",
+            "link": "/assets/resume/portfolio 정충원.pptx"
         },
         {
             "label": "PORTFOLIO",
