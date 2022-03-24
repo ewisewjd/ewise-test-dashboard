@@ -7,12 +7,12 @@
     "resumes": [
         {
             "label": "RESUME",
-            "link":"/assets/resume/정충원-이력서.png"
+            "link":"assets/resume/정충원-이력서.png"
         
         },
         {
             "label": "PORTFOLIO",
-            "link": "/assets/resume/portfolio-정충원.pptx"
+            "link": "assets/resume/portfolio-정충원.pptx"
         }
     ],
     "socials": [
