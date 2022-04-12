@@ -7,9 +7,9 @@
     },
     {
         "image": "assets/img/projects/download.jpg",
-        "title": "수학",
+        "title": "머신러닝",
         "description": "My Description 02",
-        "link": "#"
+        "link": "https://drive.google.com/file/d/1jWmPN4umcb1beY6mwgh1LZpvWZmozAOK/view?usp=sharing"
     },
     {
         "image": "assets/img/projects/download3.jpg",
@@ -31,7 +31,7 @@
     },
     {
         "image": "assets/img/projects/project6.jpg",
-        "title": "나의 생각",
+        "title": "수학",
         "description": "My Description 06",
         "link": "#"
     }
